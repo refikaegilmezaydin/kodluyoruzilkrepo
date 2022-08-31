@@ -1,2 +1,12 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+##Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+*readme* dosyası _olusturmaya_ calisiyorum 
+__derslere ara verdiğimden şaşırdım, kendimce çözüm bulmak gayretindeyim__
+[Google bağlantısı için tiklayiniz] (https://www.google.com.tr/)
+***********************************
+yapmam gereknler:
+* bu dersi bir an önce bitirmek ve sonraki derslere geçmek
+* dersler çok zevkli emeği bulunan herkese çok teşekkür ederim
+* iyi ki varsınız
+-------------------------------------------------
+''' İşyerinden gizlice yapıyorum bu çalışmayı'''
