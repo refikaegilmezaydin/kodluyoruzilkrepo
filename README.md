@@ -4,7 +4,7 @@
 __derslere ara verdiğimden şaşırdım, kendimce çözüm bulmak gayretindeyim__
 [Google bağlantısı için tiklayiniz] (https://www.google.com.tr/)
 ***********************************
-yapmam gereknler:
+yapmam gerekenler:
 * bu dersi bir an önce bitirmek ve sonraki derslere geçmek
 * dersler çok zevkli emeği bulunan herkese çok teşekkür ederim
 * iyi ki varsınız
