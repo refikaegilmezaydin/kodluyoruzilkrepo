@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 ##Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 *readme* dosyası _olusturmaya_ calisiyorum 
-__derslere ara verdiğimden şaşırdım, kendimce çözüm bulmak gayretindeyim__
+__derslere ara verdiğimden sasirdim, kendimce cozum bulmak gayretindeyim__
 [Google bağlantısı için tiklayiniz] (https://www.google.com.tr/)
 ***********************************
 yapmam gerekenler:
